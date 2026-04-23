@@ -1,0 +1,14 @@
+{
+  "latestVersion": "2.7.8",
+  "message": "Nuova versione disponibile. Contatta il referente per ricevere il pacchetto aggiornato.",
+  "contacts": [
+    {
+      "label": "Telegram",
+      "url": "https://t.me/TUO_USERNAME?text=Richiesta%20aggiornamento%20{{appName}}%20v{{latestVersion}}%20%28attuale%20{{currentVersion}}%29"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:tua.mail@example.com?subject=Richiesta%20aggiornamento%20{{appName}}%20{{latestVersion}}&body=Versione%20attuale%3A%20{{currentVersion}}%0ARichiedo%20il%20pacchetto%20aggiornato."
+    }
+  ]
+}
