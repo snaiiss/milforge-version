@@ -1,4 +1,4 @@
 {
-  "latestVersion": "2.8",
+  "latestVersion": "2.8.0",
   "message": "Nuova versione disponibile.\n\nNovità principali:\n• Aggiunta importazione dati meteo online con recupero automatico di vento e condizioni atmosferiche.\n• Aggiunto calcolo automatico del vento alla quota di lancio tramite interpolazione dei dati disponibili.\n• Migliorata la gestione manuale dei dati vento: direzione e intensità ora possono essere modificate senza essere sovrascritte.\n• Corretta la gestione delle coordinate importate dai servizi online.\n• Aggiunta visualizzazione dell'orario di riferimento dei dati meteo utilizzati.\n• Corretta conversione e arrotondamento dei valori importati eliminando decimali non necessari.\n• Risolto bug lunghezza Zona Lancio: corretta associazione tra sistema CARP e Nazionale (lunghezza utile/totale).\n• Migliorata la reattività dell'interfaccia durante la modifica dei parametri.\n• Ottimizzata la gestione dei campi automatici e manuali.\n• Correzioni grafiche e miglioramenti generali dell'interfaccia."
 }
