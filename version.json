@@ -1,4 +1,12 @@
 {
-  "latestVersion": "2.8.1",
-  "message": "Nuova versione disponibile.Aggiunta modalita di importazione dati on-line"
+  "latestVersion": "2.8.2",
+  "message": "Nuova versione disponibile.",
+  "changelog": [
+    "Aggiunta importazione dati meteo online",
+    "Calcolo automatico vento quota lancio",
+    "Campi vento modificabili manualmente",
+    "Correzione coordinate importate",
+    "Fix lunghezza ZL CARP/Nazionale",
+    "Miglioramenti grafici e reattività"
+  ]
 }
